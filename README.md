@@ -1,70 +1,103 @@
-# Getting Started with Create React App
+# Pokemon Point Buy Team Builder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React web application for building Pokemon teams within a pre-set point buy limit.
 
-## Available Scripts
+## Project Structure
 
-In the project directory, you can run:
+The project is divided into two main parts:
+- **Frontend**: A React application located in the `src/` directory.
+- **Backend**: A Node.js/Express application located in the `server/` directory.
 
-### `npm start`
+### Project Folders
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- `src/components`: Reusable UI components.
+- `src/hooks`: Custom React hooks.
+- `src/services`: API and data fetching logic (e.g., loading Pokemon database).
+- `src/store`: State management (Zustand).
+- `src/types`: JavaScript-based type definitions/interfaces.
+- `src/utils`: Helper functions and formatting.
+- `src/data`: Static data or local database files.
+- `server/`: Node.js Express server.
+  - `server/index.js`: Main server entry point.
+  - `server/package.json`: Backend dependencies and scripts.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Dependencies
 
-### `npm test`
+### Frontend
+- **UI/Styles**: Tailwind CSS, Lucide React, `clsx`, `tailwind-merge`.
+- **State Management**: Zustand.
+- **Routing**: React Router DOM.
+- **Utilities**: Lodash-es, Axios.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Backend
+- **Framework**: Express.js.
+- **Middleware**: CORS.
+- **Environment Management**: dotenv.
+- **Development**: nodemon.
 
-### `npm run build`
+## Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1.  **Install dependencies**:
+    ```bash
+    npm install
+    cd server
+    npm install
+    cd ..
+    ```
+2.  **Run the application (Frontend & Backend)**:
+    - This is the **recommended** way to run the app as it starts both the React frontend and Node.js backend.
+    ```bash
+    npm run dev
+    ```
+    The backend will run on `http://localhost:5001` and the frontend on `http://localhost:3000`.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3.  **Troubleshooting Startup**:
+    - If you see `net::ERR_CONNECTION_REFUSED` or can't load Generations/Tiers, ensure the backend is running.
+    - You can verify the backend manually by visiting `http://localhost:5001/api/health`.
+    - Make sure you have run `npm install` in both the root directory and the `server/` directory.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+4.  **Run only Frontend**:
+    ```bash
+    npm start
+    ```
+5.  **Run only Backend**:
+    ```bash
+    npm run server
+    ```
 
-### `npm run eject`
+## Deployment to GitHub Pages
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+The application is now configured to work as a standalone static site on GitHub Pages. It uses a frontend-based scraper with a CORS proxy to fetch data from Smogon when the local backend is not available.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Steps to Deploy:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1.  **Create a GitHub Repository**: Create a new repository on GitHub (e.g., `pokemon-point-buy`).
+2.  **Add Remote**: In your local terminal, add the GitHub repository as a remote:
+    ```bash
+    git remote add origin https://github.com/USERNAME/REPO_NAME.git
+    ```
+3.  **Deploy**: Run the following command to build and deploy the app:
+    ```bash
+    npm run deploy
+    ```
+    This will automatically build the project and push the `build/` folder to a `gh-pages` branch on your GitHub repository.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4.  **Enable GitHub Pages**:
+    - Go to your GitHub repository settings.
+    - Select **Pages** from the sidebar.
+    - Under **Build and deployment**, ensure the source is set to "Deploy from a branch" and the branch is set to `gh-pages` / `/ (root)`.
 
-## Learn More
+### Note on CORS Proxies:
+By default, the frontend scraper uses `https://corsproxy.io/?`. If this proxy is unavailable or rate-limited, you can change the `DEFAULT_PROXY` in `src/services/smogonService.js`.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Features
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [ ] Import/Export team data.
+- [ ] Customizable Point Buy configuration.
+- [ ] Pokemon database integration.
+- [ ] Point limit validation.
 
-### Code Splitting
+## Getting Started
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Install dependencies: `npm install`
+2. Start development server: `npm start`

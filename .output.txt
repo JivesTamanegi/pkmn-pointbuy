@@ -1,0 +1,674 @@
+﻿
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\@ungap\structured-clone
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\ajv-formats\node_modules\json-schema-traverse
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\array-buffer-byte-length
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\array-includes
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\array.prototype.findlast
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\array.prototype.findlastindex
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\array.prototype.flat
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\array.prototype.flatmap
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\array.prototype.tosorted
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\async-function
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\available-typed-arrays
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\babel-preset-current-node-syntax
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\balanced-match
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\call-bind
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\call-bind-apply-helpers
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\call-bound
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\data-view-buffer
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\data-view-byte-length
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\data-view-byte-offset
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\define-data-property
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\define-properties
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\dunder-proto
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\es-array-method-boxes-properly
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\es-define-property
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\es-errors
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\es-iterator-helpers
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\es-object-atoms
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\es-shim-unscopables
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\es-to-primitive
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\eslint-import-resolver-node\node_modules\resol
+    ve
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\eslint-plugin-react\node_modules\resolve
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\events
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\fast-json-stable-stringify
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\fast-uri
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\filelist\node_modules\brace-expansion
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\for-each
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\function-bind
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\function.prototype.name
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\functions-have-names
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\generator-function
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\get-intrinsic
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\get-proto
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\get-symbol-description
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\gopd
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\has-bigints
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\has-property-descriptors
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\has-proto
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\has-symbols
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\has-tostringtag
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\hasown
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\iconv-lite
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\internal-slot
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-array-buffer
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-bigint
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-boolean-object
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-callable
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-data-view
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-date-object
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-finalizationregistry
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-map
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-negative-zero
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-number-object
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-set
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-shared-array-buffer
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-string
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-symbol
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-typed-array
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-weakmap
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-weakref
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\is-weakset
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\iterator.prototype
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\jsx-ast-utils
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\math-intrinsics
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\minimist
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\node-exports-info
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\object-inspect
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\object.assign
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\object.groupby
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\own-keys
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\possible-typed-array-names
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\postcss-initial
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\pretty-error
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\qs
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\resolve
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\reusify
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\safe-array-concat
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\safe-push-apply
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\safe-regex-test
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\schema-utils\node_modules\json-schema-traverse
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\set-function-length
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\set-function-name
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\set-proto
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\shell-quote
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\side-channel
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\side-channel-list
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\side-channel-map
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\side-channel-weakmap
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\stop-iteration-iterator
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\string.prototype.includes
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\string.prototype.matchall
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\supports-preserve-symlinks-flag
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\typed-array-buffer
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\typed-array-byte-length
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\typed-array-byte-offset
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\typed-array-length
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\unbox-primitive
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\util.promisify
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\which-boxed-primitive
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\which-collection
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\which-typed-array
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\node_modules\workbox-build\node_modules\json-schema-travers
+    e
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     18:51                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\call-bind-apply-helpers
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\call-bound
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\dunder-proto
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\encoding-sniffer\node_modules\iconv-lit
+    e
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     21:42                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\es-define-property
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\es-errors
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\es-object-atoms
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\function-bind
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\get-intrinsic
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\get-proto
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\gopd
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\has-symbols
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\has-tostringtag
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     21:42                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\hasown
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\math-intrinsics
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\object-inspect
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\qs
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\side-channel
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\side-channel-list
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\side-channel-map
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\side-channel-weakmap
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\undefsafe
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     20:23                .github
+    Directory: C:\Users\james\RiderProjects\Pokemon-Point-Buy-Project\pokemon-p
+    ointbuy-project\server\node_modules\whatwg-encoding\node_modules\iconv-lite
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        05/04/2026     21:42                .github
