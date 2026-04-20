@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pkmn-pointbuy/static/css/main.5cbe2456.css",
+    "main.js": "/pkmn-pointbuy/static/js/main.94fbd721.js",
+    "static/js/453.f521c5ee.chunk.js": "/pkmn-pointbuy/static/js/453.f521c5ee.chunk.js",
+    "index.html": "/pkmn-pointbuy/index.html",
+    "main.5cbe2456.css.map": "/pkmn-pointbuy/static/css/main.5cbe2456.css.map",
+    "main.94fbd721.js.map": "/pkmn-pointbuy/static/js/main.94fbd721.js.map",
+    "453.f521c5ee.chunk.js.map": "/pkmn-pointbuy/static/js/453.f521c5ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cbe2456.css",
+    "static/js/main.94fbd721.js"
+  ]
+}
